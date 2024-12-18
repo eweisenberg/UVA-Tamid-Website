@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /resources
+Disallow: /email-response
+Disallow: /email-error
+Disallow: /not-found
+
+Sitemap: https://www.uvatamid.org/sitemap.xml

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en-US" itemscope itemtype="http://schema.org/WebPage">
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176777962-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-176777962-1');
+		</script>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>
+			Contact Us - TAMID Group at UVA
+		</title>
+		<meta name="robots" content="index, follow">
+		<meta name="description" content="Your questions and comments are important to us. Feel free to reach out and we will respond to your message as soon as possible.">
+		<meta name="author" content="Ethan Gimbel">
+		<meta property="og:site_name" content="TAMID Group at UVA">
+		<meta property="og:title" content="Contact Us - TAMID Group at UVA">
+		<meta property="og:url" content="https://www.uvatamid.org/contact">
+		<meta property="og:type" content="website">
+		<meta property="og:description" content="Your questions and comments are important to us. Feel free to reach out and we will respond to your message as soon as possible.">
+		<meta property="og:image" content="https://www.uvatamid.org/Images/TAMID-Logo.png">
+		<meta itemprop="name" content="Contact Us - TAMID Group at UVA">
+		<meta itemprop="url" content="https://www.uvatamid.org/contact">
+		<meta itemprop="description" content="Your questions and comments are important to us. Feel free to reach out and we will respond to your message as soon as possible.">
+		<meta itemprop="image" content="https://www.uvatamid.org/Images/TAMID-Logo.png">
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Contact Us - TAMID Group at UVA">
+		<meta name="twitter:description" content="Your questions and comments are important to us. Feel free to reach out and we will respond to your message as soon as possible.">
+		<meta name="twitter:image" content="https://www.uvatamid.org/Images/TAMID-Logo.png"> 
+		<link rel="canonical" href="https://www.uvatamid.org/contact">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	</head>
+	<body>
+		<div class="nav-wrapper">
+			<div class="left-side">
+				<div class="nav-logo-wrapper">
+					<a href="https://www.uvatamid.org/"><img src="Images/TAMID-Logo.png" width="70" height="70" alt="TAMID at UVA Logo"></a>
+				</div>
+				<div class="professional-logos">
+					<div class="instagram">
+						<a href="https://www.instagram.com/tamidatuva/" target="_blank"><img src="Images/instagram-nav.png" width= "45" height="45" id="face" alt="TAMID at UVA Instagram Link"></a>
+					</div>
+					<div class="linkedin">
+						<a href="https://www.linkedin.com/company/tamid-group-at-uva/about/" target="_blank"><img src="Images/linkedin-nav.png" width= "45" height="45" id="link" alt="TAMID at UVA LinkedIn Link"></a>
+					</div>
+				</div>
+			</div>
+			<div class="menu-btn">
+				<div class="burger"></div>
+			</div>
+			<div class="right-side">
+				<div class="right-side-container">
+					<div class="nav-link">
+						<a href="https://www.uvatamid.org/">Home</a>
+					</div>
+					<div class="nav-link">
+						<svg class="bi bi-plus" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+						  <path fill-rule="evenodd" d="M8 3.5a.5.5 0 01.5.5v4a.5.5 0 01-.5.5H4a.5.5 0 010-1h3.5V4a.5.5 0 01.5-.5z" clip-rule="evenodd"/>
+						  <path fill-rule="evenodd" d="M7.5 8a.5.5 0 01.5-.5h4a.5.5 0 010 1H8.5V12a.5.5 0 01-1 0V8z" clip-rule="evenodd"/>
+						</svg>
+						<div class="dropdown">
+							<a>About</a>
+							<div class="dropdown-content">
+								<a href="https://www.uvatamid.org/what-we-offer">What We Offer</a>
+								<a href="https://www.uvatamid.org/clients">Our Clients</a>
+								<a href="https://www.uvatamid.org/internship-placement">Fellowship Placement</a>
+							</div>
+						</div>
+					</div>
+					<div class="nav-link">
+						<a href="https://www.uvatamid.org/apply">Apply</a>
+					</div>
+					<div class="nav-link">
+						<a href="https://www.uvatamid.org/members">Members</a>
+					</div>
+					<div class="nav-link">
+						<a href="https://www.uvatamid.org/contact" id="active-page">Contact</a>
+					</div>
+					<div class="nav-link">
+						<a href="https://www.uvatamid.org/resources">Resources</a>
+					</div>
+				</div>
+			</div>
+			<div class="hidden-dropdown">
+				<div class="cross-btn-full">
+					<div class="cross-btn-hidden">
+						<div class="cross1-hidden"></div>
+					</div>
+				</div>
+				<div class="hidden-dropdown-inner">
+					<div class="hidden-dropdown-link">
+						<a href="https://www.uvatamid.org/what-we-offer">What We Offer</a>
+					</div>
+					<div class="hidden-dropdown-link">
+						<a href="https://www.uvatamid.org/clients">Our Clients</a>
+					</div>
+					<div class="hidden-dropdown-link">
+						<a href="https://www.uvatamid.org/internship-placement">Fellowship Placement</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			const menuBtn = document.querySelector('.menu-btn');
+			let menuOpen = false;
+			menuBtn.addEventListener('click', () => {
+				if(!menuOpen) {
+					menuBtn.classList.add('open');
+					menuOpen = true;
+				} else {
+					menuBtn.classList.remove('open');
+					hiddenBar.classList.remove('open');
+					menuOpen = false;
+				}
+			});
+
+			const crossBtn = document.querySelector(".cross-btn-hidden");
+			const hiddenBar = document.querySelector(".hidden-dropdown");
+			crossBtn.addEventListener('click', () => {
+					hiddenBar.classList.remove('open');
+					crossOpen = true;
+			}); 
+
+			const about = document.querySelector(".dropdown");
+			about.addEventListener('click', () => {
+					hiddenBar.classList.add('open');
+			}); 
+		</script>
+		<div class="header">
+			<header class="section" style="background-color: black;">
+				<h1 class="header-caption">
+					Contact Us
+				</h1>
+			</header>
+		</div>
+		<div class="contact-section" style="background-image: url(Images/contact-background.jpg);">
+			<form class="contact-form" action="contactform.php" method="post" enctype="multipart/form-data">
+				<input type="text" class="contact-form-text" name="name" placeholder="Full Name" id="contact-name" oninvalid="this.setCustomValidity('Please Enter Your Full Name')" oninput="this.setCustomValidity('')" required> 
+				<input type="email" name="mail" class="contact-form-text" placeholder="Email" pattern="([a-z0-9][-a-z0-9_\+\.]*[a-z0-9])@([a-z0-9][-a-z0-9\.]*[a-z0-9]\.(arpa|root|aero|biz|cat|com|coop|edu|gov|info|int|jobs|mil|mobi|museum|name|net|org|pro|tel|travel|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)|([0-9]{1,3}\.{3}[0-9]{1,3}))" id="email" oninvalid="this.setCustomValidity('Please Enter A Valid Email Address')" oninput="this.setCustomValidity('')" required>
+				<input type="text" name="subject" class="contact-form-text" placeholder="Subject">
+				<textarea class="contact-form-text" name="message" placeholder="Your Message" oninvalid="this.setCustomValidity('Please Enter Your Message')" oninput="this.setCustomValidity('')" required></textarea>
+				<input type="submit" class="contact-form-btn" name="send" value="Submit">
+			</form>
+		</div>
+		<div class="map-section">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.6065341052604!2d-78.50601458475344!3d38.03295137971312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b386442b0551e9%3A0x491d4bba2783713a!2sRouss-Robertson%20Hall!5e0!3m2!1sen!2sus!4v1590256476110!5m2!1sen!2sus" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" class="google-map"></iframe>
+		</div>
+		<footer class="footer" style="background-color: #373737;">
+			<div class="footer-caption">
+				<div class="footer-caption-inner">
+					<p>ROUSS ROBERTSON HALL, CHARLOTTESVILLE, VA</p><p>Copyright &copy; 2020 TAMID GROUP at the University of Virginia. All rights reserved.</p>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
