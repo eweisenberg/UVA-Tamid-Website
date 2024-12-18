@@ -1,0 +1,58 @@
+{
+  "members": {
+    "executiveBoard": [
+      {
+        "name": "Nadav Cohen",
+        "title": "Co-President",
+        "email": "jyb2sv@virginia.edu",
+        "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
+        "image": "nadav-cohen.jpg"
+      },
+      {
+        "name": "Anirudh Mandowara",
+        "title": "Co-President",
+        "email": "bfh6su@virginia.edu",
+        "linkedin": "https://www.linkedin.com/in/anirudh-mandowara/",
+        "image": "anirudh-mandowara.png"
+      }
+    ],
+
+    "consultingTeam": [
+      {
+        "name": "Nadav Cohen",
+        "title": "Co-President",
+        "email": "jyb2sv@virginia.edu",
+        "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
+        "image": "nadav-cohen.jpg"
+      },
+      {
+        "name": "Anirudh Mandowara",
+        "title": "Co-President",
+        "email": "bfh6su@virginia.edu",
+        "linkedin": "https://www.linkedin.com/in/anirudh-mandowara/",
+        "image": "anirudh-mandowara.png"
+      }
+    ],
+
+    "investmentTeam": [
+      {
+        "name": "Nadav Cohen",
+        "title": "Co-President",
+        "email": "jyb2sv@virginia.edu",
+        "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
+        "image": "nadav-cohen.jpg"
+      },
+      {
+        "name": "Anirudh Mandowara",
+        "title": "Co-President",
+        "email": "bfh6su@virginia.edu",
+        "linkedin": "https://www.linkedin.com/in/anirudh-mandowara/",
+        "image": "anirudh-mandowara.png"
+      }
+    ],
+
+    "consultants": "Paste names here, comma separated",
+
+    "analysts": "Paste names here, comma separated"
+  }
+}
