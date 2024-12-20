@@ -2,18 +2,11 @@
   "members": {
     "executiveBoard": [
       {
-        "name": "Nadav Cohen",
+        "name": "Ben Margolis",
         "title": "Co-President",
-        "email": "jyb2sv@virginia.edu",
+        "email": "emb9yu@virginia.edu",
         "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
-        "image": "nadav-cohen.jpg"
-      },
-      {
-        "name": "Anirudh Mandowara",
-        "title": "Co-President",
-        "email": "bfh6su@virginia.edu",
-        "linkedin": "https://www.linkedin.com/in/anirudh-mandowara/",
-        "image": "anirudh-mandowara.png"
+        "image": "tamid-logo.png"
       }
     ],
 

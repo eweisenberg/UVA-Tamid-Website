@@ -1994,7 +1994,6 @@ body {
 
 .member-photo {
 	height: 350px;
-	max-width: 350px;
 }
 
 .member-text {
@@ -2121,6 +2120,10 @@ body {
 	.exec-title {
 		font-size: 50px;
 	}
+
+	.member-column-inner {
+		margin-left: 9%;
+	}
 }
 
 @media screen and (min-width: 1900px) {
@@ -2133,6 +2136,10 @@ body {
 		width: 1700px;
 	}
 
+	.member-column-inner {
+		margin-left: 14%;
+	}
+
 }
 
 @media screen and (min-width: 2100px) {
@@ -2143,6 +2150,10 @@ body {
 
 	.member-main-section {
 		width: 1900px;
+	}
+
+	.member-column-inner {
+		margin-left: 18%;
 	}
 }
 
