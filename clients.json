@@ -1,0 +1,84 @@
+{
+  "clients": {
+    "currentClients": [
+      {
+        "name": "Envisage",
+        "website": "https://www.envisage.studio/",
+        "image": "envisage.png"
+      },
+      {
+        "name": "Promise State",
+        "website": "https://promisestate.com/",
+        "image": "promise-state.png"
+      },
+      {
+        "name": "CityStars Traction",
+        "website": "https://saas-growth.tomerashkenazy.com/traction/",
+        "image": "citystars.png"
+      }
+    ],
+
+    "pastClients": [
+      {
+        "name": "Larch Network",
+        "website": "https://larch-networks.com",
+        "image": "larch-networks.png"
+      },{
+        "name": "Book a Space",
+        "website": "https://bookasp.com",
+        "image": "book-a-space.png"
+      },
+      {
+        "name": "Zero21 Innovation",
+        "website": "https://www.zero21innovation.com/en/home-2/",
+        "image": "zero21-innovation.png"
+      },{
+        "name": "Singtel Innov8",
+        "website": "https://innov8.singtel.com",
+        "image": "singtel-innov8.png"
+      },
+      {
+        "name": "Resymmetry",
+        "website": "https://www.resymmetry.com",
+        "image": "resymmetry.jpeg"
+      },
+      {
+        "name": "Lagoon",
+        "website": "https://www.data-lagoon.com",
+        "image": "lagoon.jpg"
+      },
+      {
+        "name": "SkylerAI",
+        "website": "https://skylerai.com",
+        "image": "skylerai.jpeg"
+      },
+      {
+        "name": "Sign Now",
+        "website": "https://www.sign-now.io/",
+        "image": "sign_now.jpg"
+      },
+      {
+        "name": "Canditech",
+        "website": "https://www.canditech.io",
+        "image": "canditech.png"
+      },
+      {
+        "name": "Read Twogether",
+        "website": "",
+        "image": "Read-Twogether.jpg"
+      },{
+        "name": "BetterTrader",
+        "website": "https://bettertrader.co",
+        "image": "better-trader.png"
+      },{
+        "name": "Gaviti",
+        "website": "gaviti.com",
+        "image": "gaviti.png"
+      },{
+        "name": "Random Forest",
+        "website": "www.randomforestvc.com",
+        "image": "random-forest.png"
+      }
+    ]
+  }
+}
