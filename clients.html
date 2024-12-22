@@ -193,7 +193,7 @@
 <script>
     async function loadClients() {
         try {
-            const response = await fetch('clients.json');
+            const response = await fetch('./clients.json');
             const data = await response.json();
             const times = data.clients;
 

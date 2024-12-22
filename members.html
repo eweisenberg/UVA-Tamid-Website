@@ -220,7 +220,7 @@
 <script>
     async function loadMembers() {
         try {
-            const response = await fetch('members.json');
+            const response = await fetch('./members.json');
             const data = await response.json();
             const teams = data.members;
 
