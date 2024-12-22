@@ -5,47 +5,152 @@
         "name": "Ben Margolis",
         "title": "Co-President",
         "email": "emb9yu@virginia.edu",
-        "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
+        "image": "ben-margolis.png"
+      },
+      {
+        "name": "Srimaan Suribhotla",
+        "title": "Co-President",
+        "email": "zcs6mw@virginia.edu",
+        "image": "srimaan-suribhotla.jpg"
+      },
+      {
+        "name": "Jake Bernstein",
+        "title": "Director of Operations",
+        "email": "frc4xr@virginia.edu",
+        "image": "jake-bernstein.png"
+      },
+      {
+        "name": "Gavin Croke",
+        "title": "Director of Finance",
+        "email": "bqa7nu@virginia.edu",
+        "image": "gavin-croke.png"
+      },
+      {
+        "name": "Antranig Kasbarian",
+        "title": "Director of Fund",
+        "email": "gpa9qv@virginia.edu",
+        "image": "antranig-kasbarian.png"
+      },
+      {
+        "name": "Sofia Lombard",
+        "title": "Director of Consulting",
+        "email": "yys7pq@virginia.edu",
+        "image": "sofia-lombard.png"
+      },
+      {
+        "name": "Alex Mogel",
+        "title": "Director of Consulting Education",
+        "email": "fwk2fm@virginia.edu",
+        "image": "alex-mogel.jpg"
+      },
+      {
+        "name": "Andrew Mathiason",
+        "title": "Director of Fund Education",
+        "email": "atg5jj@virginia.edu",
+        "image": "andrew-mathiason.png"
+      },
+      {
+        "name": "Laura Grace Shield",
+        "title": "Co-Director of Outreach",
+        "email": "gxu5ek@virginia.edu",
+        "image": "laura-grace-shield.png"
+      },
+      {
+        "name": "Andrew Kohl",
+        "title": "Co-Director of Outreach",
+        "email": "gpe4up@virginia.edu",
+        "image": "andrew-kohl.png"
+      },
+      {
+        "name": "Zoe Herman",
+        "title": "Director of Marketing",
+        "email": "bep7bj@virginia.edu",
         "image": "tamid-logo.png"
       }
     ],
-
     "consultingTeam": [
       {
-        "name": "Nadav Cohen",
-        "title": "Co-President",
-        "email": "jyb2sv@virginia.edu",
-        "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
-        "image": "nadav-cohen.jpg"
+        "name": "Shani Spector",
+        "title": "Project Manager",
+        "email": "wcv8jj@virginia.edu",
+        "image": "shani-spector.png"
       },
       {
-        "name": "Anirudh Mandowara",
-        "title": "Co-President",
-        "email": "bfh6su@virginia.edu",
-        "linkedin": "https://www.linkedin.com/in/anirudh-mandowara/",
-        "image": "anirudh-mandowara.png"
+        "name": "Isht Renjhen",
+        "title": "Project Manager",
+        "email": "sjy9su@virginia.edu",
+        "image": "tamid-logo.png"
+      },
+      {
+        "name": "Zach Lipp",
+        "title": "Project Manager",
+        "email": "tnb2cv@virginia.edu",
+        "image": "tamid-logo.png"
+      },
+      {
+        "name": "Aditya Sharma",
+        "title": "Project Manager",
+        "email": "zjz9xr@virginia.edu",
+        "image": "aditya-sharma.png"
       }
     ],
-
+    "consultants": "Abby Rozengarten, Akhil Kalepalli, Alec Wachsman, Alex Wu, Anna Lazzarino, Brayton Howard, Caroline Longest, Darren Amona, Elle Ruttenberg, Emily Alaimo, Gabryelle Tepper-Waterman, Jeffrey Mitchell, Justin Diamond, Justin Lewis, Katie Korb, Laine Goldmacher, Leo Schulman, Rachel Roseberg, Ryan Berman, Saraa Kumar, Sarah Hill, Skye Zeidan, Sophie Cooperman, Sriharsha Sikhakollu, Zac Simonoff",
     "investmentTeam": [
       {
-        "name": "Nadav Cohen",
-        "title": "Co-President",
-        "email": "jyb2sv@virginia.edu",
-        "linkedin": "https://www.linkedin.com/in/nadavbcohen/",
-        "image": "nadav-cohen.jpg"
+        "name": "Joey Deluca",
+        "title": "Fund Manager",
+        "email": "hnn5hv@virginia.edu",
+        "image": "joey-deluca.png"
       },
       {
-        "name": "Anirudh Mandowara",
-        "title": "Co-President",
-        "email": "bfh6su@virginia.edu",
-        "linkedin": "https://www.linkedin.com/in/anirudh-mandowara/",
-        "image": "anirudh-mandowara.png"
+        "name": "William Silver",
+        "title": "Fund Manager",
+        "email": "xsz2yg@virginia.edu",
+        "image": "william-silver.png"
+      },
+      {
+        "name": "Sam Kane",
+        "title": "Fund Manager",
+        "email": "cuz5zj@virginia.edu",
+        "image": "sam-kane.png"
+      },
+      {
+        "name": "Jack Gilligan",
+        "title": "Fund Manager",
+        "email": "rht3jd@virginia.edu",
+        "image": "tamid-logo.png"
+      },
+      {
+        "name": "Jamie Appelbaum",
+        "title": "Fund Manager",
+        "email": "wen9xy@virginia.edu",
+        "image": "jamie-appelbaum.png"
+      },
+      {
+        "name": "Anthony Barretta",
+        "title": "Fund Manager",
+        "email": "ckm6mn@virginia.edu",
+        "image": "anthony-barretta.png"
+      },
+      {
+        "name": "Wyatt Wetzler",
+        "title": "Fund Manager",
+        "email": "swr2ra@virginia.edu",
+        "image": "tamid-logo.png"
+      },
+      {
+        "name": "Jonathan Notis",
+        "title": "Fund Manager",
+        "email": "bjx8qk@virginia.edu",
+        "image": "jonathan-notis.png"
+      },
+      {
+        "name": "Mason Phan",
+        "title": "Fund Manager",
+        "email": "cbq5ad@virginia.edu",
+        "image": "mason-phan.png"
       }
     ],
-
-    "consultants": "Paste names here, comma separated",
-
-    "analysts": "Paste names here, comma separated"
+    "analysts": "Adamya Gupta, Andrew Marks, Brodie Goodman, Brody Liff, DJ Cook, Donovan Martin, Gideon Rotem, Jack Simmons, Jacob Miller, Lachlan Bill, Meghan Griffiths, Richard Powell, Ryan Levy, Sam Funk, Samuel Fuller, Sloane Griffiths, Tegh Khuman, Zachary Neidoff"
   }
 }
