@@ -8,20 +8,20 @@
         "image": "ben-margolis.png"
       },
       {
-        "name": "Srimaan Suribhotla",
-        "title": "Co-President",
-        "email": "zcs6mw@virginia.edu",
-        "image": "srimaan-suribhotla.jpg"
-      },
-      {
         "name": "Jake Bernstein",
-        "title": "Director of Operations",
+        "title": "Co-President",
         "email": "frc4xr@virginia.edu",
         "image": "jake-bernstein.png"
       },
       {
+        "name": "Zoe Herman",
+        "title": "Vice President",
+        "email": "bep7bj@virginia.edu",
+        "image": "zoe-herman.png"
+      },
+      {
         "name": "Gavin Croke",
-        "title": "Director of Finance",
+        "title": "Director of Consulting",
         "email": "bqa7nu@virginia.edu",
         "image": "gavin-croke.png"
       },
@@ -32,55 +32,37 @@
         "image": "antranig-kasbarian.png"
       },
       {
-        "name": "Sofia Lombard",
-        "title": "Director of Consulting",
-        "email": "yys7pq@virginia.edu",
-        "image": "sofia-lombard.png"
+        "name": "Sam Kane",
+        "title": "Co-Director of Education",
+        "email": "cuz5zj@virginia.edu",
+        "image": "sam-kane.png"
       },
       {
-        "name": "Alex Mogel",
-        "title": "Director of Consulting Education",
-        "email": "fwk2fm@virginia.edu",
-        "image": "alex-mogel.jpg"
+        "name": "Isht Renjhen",
+        "title": "Co-Director of Education",
+        "email": "sjy9su@virginia.edu",
+        "image": "isht-renjhen.png"
       },
       {
-        "name": "Andrew Mathiason",
-        "title": "Director of Fund Education",
-        "email": "atg5jj@virginia.edu",
-        "image": "andrew-mathiason.png"
+        "name": "Jamie Appelbaum",
+        "title": "Director of Israel Engagement",
+        "email": "wen9xy@virginia.edu",
+        "image": "jamie-appelbaum.png"
       },
       {
         "name": "Laura Grace Shield",
-        "title": "Co-Director of Outreach",
+        "title": "Director of Outreach",
         "email": "gxu5ek@virginia.edu",
         "image": "laura-grace-shield.png"
       },
       {
-        "name": "Andrew Kohl",
-        "title": "Co-Director of Outreach",
-        "email": "gpe4up@virginia.edu",
-        "image": "andrew-kohl.png"
-      },
-      {
-        "name": "Zoe Herman",
+        "name": "Alec Wachsman",
         "title": "Director of Marketing",
-        "email": "bep7bj@virginia.edu",
-        "image": "zoe-herman.png"
+        "email": "jzx9ta@virginia.edu",
+        "image": "alec-wachsman.png"
       }
     ],
     "consultingTeam": [
-      {
-        "name": "Shani Spector",
-        "title": "Project Manager",
-        "email": "wcv8jj@virginia.edu",
-        "image": "shani-spector.png"
-      },
-      {
-        "name": "Isht Renjhen",
-        "title": "Project Manager",
-        "email": "sjy9su@virginia.edu",
-        "image": "isht-renjhen.png"
-      },
       {
         "name": "Zach Lipp",
         "title": "Project Manager",
@@ -92,9 +74,15 @@
         "title": "Project Manager",
         "email": "zjz9xr@virginia.edu",
         "image": "aditya-sharma.png"
+      },
+      {
+        "name": "Abby Rozengarten",
+        "title": "Project Manager",
+        "email": "agr3wz@virginia.edu",
+        "image": "abby-rozengarten.png"
       }
     ],
-    "consultants": "Abby Rozengarten, Akhil Kalepalli, Alec Wachsman, Alex Wu, Anna Lazzarino, Brayton Howard, Caroline Longest, Darren Amona, Elle Ruttenberg, Emily Alaimo, Gabryelle Tepper-Waterman, Jeffrey Mitchell, Justin Diamond, Justin Lewis, Katie Korb, Laine Goldmacher, Leo Schulman, Rachel Roseberg, Ryan Berman, Saraa Kumar, Sarah Hill, Skye Zeidan, Sophie Cooperman, Sriharsha Sikhakollu, Zac Simonoff",
+    "consultants": "Anna Lazzarino, Brayton Howard, Elle Ruttenberg, Emily Alaimo, Justin Diamond, Katie Korb, Laine Goldmacher, Leo Schulman, Sarah Hill, Shani Spector",
     "investmentTeam": [
       {
         "name": "Joey Deluca",
@@ -103,40 +91,10 @@
         "image": "joey-deluca.png"
       },
       {
-        "name": "William Silver",
-        "title": "Fund Manager",
-        "email": "xsz2yg@virginia.edu",
-        "image": "william-silver.png"
-      },
-      {
-        "name": "Sam Kane",
-        "title": "Fund Manager",
-        "email": "cuz5zj@virginia.edu",
-        "image": "sam-kane.png"
-      },
-      {
-        "name": "Jack Gilligan",
-        "title": "Fund Manager",
-        "email": "rht3jd@virginia.edu",
-        "image": "jack-gilligan.png"
-      },
-      {
-        "name": "Jamie Appelbaum",
-        "title": "Fund Manager",
-        "email": "wen9xy@virginia.edu",
-        "image": "jamie-appelbaum.png"
-      },
-      {
         "name": "Anthony Barretta",
         "title": "Fund Manager",
         "email": "ckm6mn@virginia.edu",
         "image": "anthony-barretta.png"
-      },
-      {
-        "name": "Wyatt Wetzler",
-        "title": "Fund Manager",
-        "email": "swr2ra@virginia.edu",
-        "image": "wyatt-wetzler.png"
       },
       {
         "name": "Jonathan Notis",
@@ -151,6 +109,6 @@
         "image": "mason-phan.png"
       }
     ],
-    "analysts": "Adamya Gupta, Andrew Marks, Brodie Goodman, Brody Liff, DJ Cook, Donovan Martin, Gideon Rotem, Jack Simmons, Jacob Miller, Lachlan Bill, Meghan Griffiths, Richard Powell, Ryan Levy, Sam Funk, Samuel Fuller, Sloane Griffiths, Tegh Khuman, Zachary Neidoff"
+    "analysts": "Andrew Marks, Brodie Goodman, Donovan Martin, Jack Simmons, Lachlan Bill, Richard Powell, Samuel Fuller, Sloan Griffiths, Tegh Khuman, Zach Neidoff"
   }
 }
